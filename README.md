@@ -1,10 +1,10 @@
-# awesome-web3-data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Web3 Data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Web3 data resources, tools, and APIs for blockchain developers, researchers, and analysts.
 
 <img src="./media/Logo-light-background-0.png" alt="axol-io" width="200" height="auto">
 
-## Table of Contents
+## Contents
 
 - [Analytics & Visualization Tools](#analytics--visualization-tools)
   - [Block Explorers](#block-explorers)
@@ -20,7 +20,6 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [NFT Data Providers](#nft-data-providers)
 - [RPC Providers](#rpc-providers)
 - [SDKs and Libraries](#sdks-and-libraries)
-- [Contributing](#contributing)
 
 ## Analytics & Visualization Tools
 
@@ -158,7 +157,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Ankr](https://www.ankr.com) - Web3 API provider with a free tier. Supports Web3 login and payments for the lower tier plan.
 - [Chainstack](https://chainstack.com) - Web3 APIs including IPFS access and Subgraphs hosting.
 - [dRPC](https://drpc.org/) - Decentralized RPC network with multi-provider aggregation and flat-rate pricing.
-- [Flashbots](https://protect.flashbots.net/) - Flashbots Protect RPC endpoint for MEV-protected ETH transactions.
+- [Flashbots](https://protect.flashbots.net/) - Protect RPC endpoint for MEV-protected ETH transactions.
 - [Helius](https://www.helius.dev/) - Solana RPC & API platform providing comprehensive infrastructure, NFT APIs and transaction APIs.
 - [Infura](https://infura.io/) - ETH and IPFS APIs and developer tools for scalable dApp infrastructure.
 - [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting various blockchains.
@@ -184,7 +183,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 
 Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## License [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, axol.io has waived all copyright and related or neighboring rights to this work
 
