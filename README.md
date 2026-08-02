@@ -1,10 +1,10 @@
-# awesome-web3-data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Web3 Data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Web3 data resources, tools, and APIs for blockchain developers, researchers, and analysts.
 
 <img src="./media/Logo-light-background-0.png" alt="axol-io" width="200" height="auto">
 
-## Table of Contents
+## Contents
 
 - [Analytics & Visualization Tools](#analytics--visualization-tools)
   - [Block Explorers](#block-explorers)
@@ -20,7 +20,6 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [NFT Data Providers](#nft-data-providers)
 - [RPC Providers](#rpc-providers)
 - [SDKs and Libraries](#sdks-and-libraries)
-- [Contributing](#contributing)
 
 ## Analytics & Visualization Tools
 
@@ -75,7 +74,6 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Rekt News](https://rekt.news/) - Analysis and reports on DeFi hacks, scams, and exploits.
 - [RWA.xyz](https://rwa.xyz/) - Data platform for tokenized real-world assets, stablecoins, and on-chain treasuries.
 - [Sentora](https://sentora.com/) - Crypto analytics platform with ML-driven signals.
-- [ZeroMEV](https://zeromev.org/) - ETH MEV explorer showing user losses from miner extractable value (MEV).
 
 ## Blockchain Oracles
 
@@ -129,9 +127,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Etherscan Node Tracker](https://etherscan.io/nodetracker) - Tool for tracking ETH nodes and their performance.
 - [EthSunshine](https://ethsunshine.com/) - ETH node monitoring and analytics platform.
 - [Lido VANOM](https://app.hex.tech/8dedcd99-17f4-49d8-944e-4857a355b90a/app/3f7d6967-3ef6-4e69-8f7b-d02d903f045b/latest?ref=blog.lido.fi) - [LidoDAO](https://lido.fi/)'s Quarterly Validator Node Operator Monitoring ('VANOM') report.
-- [Lucky Staker](https://luckystaker.com/home/) - Platform providing insights and analytics for ETH staking.
 - [Mevboost.pics](https://mevboost.pics/) - MEV-Boost dashboard showing mev-boost flow data across Builders, Relays, and Validators.
-- [Monitor Eth](https://monitoreth.io/) - ETH monitoring tool providing insights into the consensus layer and ETH blobs.
 - [NodeWatch](https://nodewatch.io/) - Monitoring tool for ETH nodes, providing real-time data and alerts.
 - [Rollup.wtf](https://rollup.wtf/) - Realtime data for Rollups and Blobs.
 - [StakeWise Helm charts](https://github.com/stakewise/helm-charts) - Charts for deploying different infrastructure components on Kubernetes.
@@ -159,7 +155,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Ankr](https://www.ankr.com) - Web3 API provider with a free tier. Supports Web3 login and payments for the lower tier plan.
 - [Chainstack](https://chainstack.com) - Web3 APIs including IPFS access and Subgraphs hosting.
 - [dRPC](https://drpc.org/) - Decentralized RPC network with multi-provider aggregation and flat-rate pricing.
-- [Flashbots](https://protect.flashbots.net/) - Flashbots Protect RPC endpoint for MEV-protected ETH transactions.
+- [Flashbots](https://protect.flashbots.net/) - Protect RPC endpoint for MEV-protected ETH transactions.
 - [Helius](https://www.helius.dev/) - Solana RPC & API platform providing comprehensive infrastructure, NFT APIs and transaction APIs.
 - [Infura](https://infura.io/) - ETH and IPFS APIs and developer tools for scalable dApp infrastructure.
 - [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting various blockchains.
@@ -185,7 +181,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 
 Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## License [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, axol.io has waived all copyright and related or neighboring rights to this work
 

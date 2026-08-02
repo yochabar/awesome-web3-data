@@ -1,0 +1,19 @@
+# lychee link-checker config
+# Many curated sites (block explorers, analytics dashboards) sit behind
+# Cloudflare / anti-bot layers that reject CI requests with 401/403/429
+# even though the site is live. Treat those as reachable rather than
+# dropping valid resources.
+
+# Retry transient failures before giving up.
+max_retries = 3
+retry_wait_time = 2
+
+# A browser-like UA reduces bot-blocking (403) responses.
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+
+# Give slow origins room to respond.
+timeout = 20
+
+# Auth / forbidden / rate-limit responses mean "the URL exists but blocks
+# automated clients" -- not a broken link.
+accept = ["200..=299", "401", "403", "429"]
