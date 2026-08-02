@@ -73,7 +73,6 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Rekt News](https://rekt.news/) - Analysis and reports on DeFi hacks, scams, and exploits.
 - [RWA.xyz](https://rwa.xyz/) - Data platform for tokenized real-world assets, stablecoins, and on-chain treasuries.
 - [Sentora](https://sentora.com/) - Crypto analytics platform with ML-driven signals.
-- [ZeroMEV](https://zeromev.org/) - ETH MEV explorer showing user losses from miner extractable value (MEV).
 
 ## Blockchain Oracles
 
@@ -127,9 +126,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Etherscan Node Tracker](https://etherscan.io/nodetracker) - Tool for tracking ETH nodes and their performance.
 - [EthSunshine](https://ethsunshine.com/) - ETH node monitoring and analytics platform.
 - [Lido VANOM](https://app.hex.tech/8dedcd99-17f4-49d8-944e-4857a355b90a/app/3f7d6967-3ef6-4e69-8f7b-d02d903f045b/latest?ref=blog.lido.fi) - [LidoDAO](https://lido.fi/)'s Quarterly Validator Node Operator Monitoring ('VANOM') report.
-- [Lucky Staker](https://luckystaker.com/home/) - Platform providing insights and analytics for ETH staking.
 - [Mevboost.pics](https://mevboost.pics/) - MEV-Boost dashboard showing mev-boost flow data across Builders, Relays, and Validators.
-- [Monitor Eth](https://monitoreth.io/) - ETH monitoring tool providing insights into the consensus layer and ETH blobs.
 - [NodeWatch](https://nodewatch.io/) - Monitoring tool for ETH nodes, providing real-time data and alerts.
 - [Rollup.wtf](https://rollup.wtf/) - Realtime data for Rollups and Blobs.
 - [StakeWise Helm charts](https://github.com/stakewise/helm-charts) - Charts for deploying different infrastructure components on Kubernetes.
