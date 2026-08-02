@@ -55,6 +55,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [DefiLlama](https://defillama.com/) - Open DeFi TVL aggregator with customizable charts, metrics, and protocol comparisons.
 - [ETH Gas Tracker](https://www.ethgastracker.com/network/mainnet) - Real-time ETH gas prices and historical analytics.
 - [Flipside](https://flipsidecrypto.xyz/) - Blockchain analytics on Snowflake SQL with multi-chain support.
+- [Formo](https://formo.so/) - Product and onchain analytics for Web3 apps, including funnels, retention, revenue, and wallet profiles, with a read-only MCP interface.
 - [L2BEAT](https://l2beat.com/scaling/summary) - ETH L2 analytics and risk assessments for rollups and bridges.
 - [Map of Zones](https://mapofzones.com/home) - Analytics platform for the Cosmos ecosystem.
 - [Token Terminal](https://tokenterminal.com/) - Financial metrics and charts for crypto protocols and applications.
