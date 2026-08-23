@@ -52,6 +52,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Bubble Maps](https://bubblemaps.io/) - Interactive maps for exploring blockchain data.
 - [Chainbase](https://chainbase.com/) - SQL-based multi-chain data platform with APIs for building analytics.
 - [Cielo Finance](https://cielo.finance/) - On-chain activity tracker and breakout wallet discovery.
+- [CoinVerum](https://coinverum.com/) - ETH mainnet DEX analytics for on-chain prices, liquidity, volume, trades, and active addresses.
 - [DefiLlama](https://defillama.com/) - Open DeFi TVL aggregator with customizable charts, metrics, and protocol comparisons.
 - [ETH Gas Tracker](https://www.ethgastracker.com/network/mainnet) - Real-time ETH gas prices and historical analytics.
 - [Flipside](https://flipsidecrypto.xyz/) - Blockchain analytics on Snowflake SQL with multi-chain support.
